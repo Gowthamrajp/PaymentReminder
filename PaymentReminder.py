@@ -17,7 +17,7 @@ def sender(number,name,amount,cycle,isPaid):
     if(isPaid!="paid"):        
         count=count+1
         unpaid+=amount
-        pywhatkit.sendwhatmsg_instantly("+"+str(number),"Dear Customer, Please pay Cable TV amount for "+cycle+" month Rs"+str(amount)+"via Gpay/Paytm/phonepay/WhatsApp\n\n  9444047656 ( Pandian )  Rs "+str(amount)+" \n  Please Send screen shot of payment receipt if possible\n   ignore if Paid \n Thank you Have a Nice day")
+        pywhatkit.sendwhatmsg_instantly("+"+str(number),"Dear Customer, Please pay Cable TV amount for "+cycle+" month Rs"+str(amount)+"via Gpay/Paytm/phonepay/WhatsApp\n\n  9444047656 ( Pandian )  Rs "+str(amount)+" \n  Please Send screen shot of payment receipt if possible\n   ignore if Paid \n Thank you Have a Nice day",15,True,3)
         print(str(x+1)+". Reminder sent to "+name )
     else:
         paid+=amount
@@ -26,9 +26,13 @@ def sender(number,name,amount,cycle,isPaid):
 for x in range(0,len(customerData["Number"])):
         sender(customerData["Number"][x], customerData["Name"][x], customerData["Amount"][x], customerData["Cycle"][x] , customerData["Status"][x])
 
+pywhatkit.sendwhatmsg_to_group_instantly("Lm8d0hUAh6AFez1pCeg9hm","TOTAL NUMBER OF ONLINE CUSTOMERS: "+str(len(customerData["Number"]))+"\nPAYMENT REQUEST SENT TO: "+str(count)+" customers"+"\nPAYMENT REQUEST IGNORED FOR: "+str(len
+(customerData["Number"])-count)+" paid customers"+"\nTOTAL AMOUNT COLLECTED VIA ONLINE: Rs."+str(paid)+"\nTOTAL AMOUNT PENDING: Rs."+str(unpaid))
+
+
 print("TOTAL NUMBER OF ONLINE CUSTOMERS: "+str(len(customerData["Number"])))
-print("PAYMENT REQUEST SENT TO "+str(count)+" customers")
-print("PAYMENT REQUEST IGNORED FOR "+str(len
+print("PAYMENT REQUEST SENT TO: "+str(count)+" customers")
+print("PAYMENT REQUEST IGNORED FOR: "+str(len
 (customerData["Number"])-count)+" paid customers")
 print("TOTAL AMOUNT COLLECTED VIA ONLINE: Rs."+str(paid))
 print("TOTAL AMOUNT PENDING: Rs."+str(unpaid))
