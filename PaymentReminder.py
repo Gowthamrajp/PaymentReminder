@@ -43,7 +43,7 @@ def sender(number,name,amount,cycle,isPaid,mode):
         onlineCustomerCount=onlineCustomerCount+1
         if(isPaid!="paid"):        
             onlineUnpaidAmount= onlineUnpaidAmount+amount
-            pywhatkit.sendwhatmsg_instantly("+"+str(number),"Dear Customer,\nPlease pay Cable TV amount for "+cycle+" month Rs"+str(amount)+"via Gpay/Paytm/phonepay/WhatsApp\n\n9444047656 ( Pandian )  Rs "+str(amount)+" \nPlease Send screen shot of payment receipt if possible\n\nIgnore if Paid \n\nThank you for your kind Co-operation.Have a Nice day"+"\U0001F64F",15,True,3)
+            pywhatkit.sendwhatmsg_instantly("+91"+str(round(number)),"Dear Customer,\nPlease pay Cable TV amount for "+cycle+" month Rs"+str(amount)+"via Gpay/Paytm/phonepay/WhatsApp\n\n9444047656 ( Pandian )  Rs "+str(amount)+" \nPlease Send screen shot of payment receipt if possible\n\nIgnore if Paid \n\nThank you for your kind Co-operation.Have a Nice day"+"\U0001F64F",15,True,3)
             print(str(x+1)+". Reminder sent to "+str(name) )
         else:
             onlinePaidAmount=onlinePaidAmount+amount
