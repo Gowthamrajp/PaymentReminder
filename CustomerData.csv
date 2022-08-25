@@ -5,7 +5,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 4,9 T2 E.Surya,9600114876,560,,paid,gpay
 5,1 T5 Suthantharasan,9445393400,560,,paid,gpay
 6,4A T2 Maharaja,9994806490,580,,paid,gpay
-7,74 SA A Kalaimara,9444136305,580,,paid,gpay
+7,74 SA A Kalaimaran,9444136305,580,,paid,gpay
 8,8A T3 MS2 Mani,9941064562,620,,paid,gpay
 9,10A T3 MS2 Sadiqul ameen,9962570760,280,,paid,gpay
 10,6C T2 MS2 G Arunn Raj,9751737417,600,,paid,gpay
@@ -20,7 +20,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 19,3A T5 MS3 Kanagaraj J,8056296896,1140,July and August,,offline
 20,1A T5 MS3 GnanaBharathi,9962528232,560,Aug and September,,gpay
 21,6 T1 MC Chinna Krishnan,7845123989,630,Aug and September,,offline
-22,10 T1 Nagamma,,,,,
+22,10 T1 Nagamma,,650,,,offline
 23,2B T2 MS2 Gopal,9566188384,690,,,offline
 24,2B T4 MS1 Sathiyamoorthy,9840904656,660,Aug and September,,gpay
 25,2A T4 MS1 Marimuthu,9123583510,650,Aug and September,,gpay
@@ -72,7 +72,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 71,6 T3 Rajesh,9042021711,540,,paid,gpay
 72,5D T2 MS2 K Dayalan,9444136732,1100,,paid,gpay
 73,2 T2 Malliga,9894598566,600,Monthly,paid,gpay
-74,9 T3 Ananda Panndiya Raj,,1040,,paid,Online
+74,9 T3 Ananda Pandiya Raj,,1040,,paid,Online
 75,7A T3 MS2 Giri Babu,,1180,,paid,gpay
 76,4B T2 MS2 Kennedy,,590,,paid,paytm
 77,1D T2 MS2 Shanmugha Priya,,560,,paid,gpay
@@ -96,45 +96,3 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 95,58 SA Cinitha,,660,,paid,offline
 96,2A T5 MS3 Shankar,,600,,paid,offline
 97,76 SA Ananda Rao,,600,,paid,offline
-98,,,,,,
-99,,,,,,
-100,,,,,,
-101,,,,,,
-102,,,,,,
-103,,,,,,
-104,,,,,,
-105,,,,,,
-106,,,,,,
-107,,,,,,
-108,,,,,,
-109,,,,,,
-110,,,,,,
-111,,,,,,
-112,,,,,,
-113,,,,,,
-114,,,,,,
-115,,,,,,
-116,,,,,,
-117,,,,,,
-118,,,,,,
-119,,,,,,
-120,,,,,,
-121,,,,,,
-122,,,,,,
-123,,,,,,
-124,,,,,,
-125,,,,,,
-126,,,,,,
-127,,,,,,
-128,,,,,,
-129,,,,,,
-130,,,,,,
-131,,,,,,
-132,,,,,,
-133,,,,,,
-134,,,,,,
-135,,,,,,
-136,,,,,,
-137,,,,,,
-138,,,,,,
-139,,,,,,
