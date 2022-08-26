@@ -28,11 +28,11 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 27,8B T2 MS2 A Alexander,7299442939,820,July and August,,gpay
 28,11 T4 Elumalai ,9840496314,860,Aug and September,,gpay
 29,5B T4 MS1 Vasudevan P,9840256401,560,Aug and September,,gpay
-30,6 T4 E Kumarappan,9444509342,680,Aug and September,,Online
+30,6 T4 E Kumarappan,9444509342,680,Aug and September,,online
 31,71 SA GVM Kiruthiga,9344836126,980,,paid,gpay
-32,4 T4 Babu,9444403805,670,,paid,PhonePe
-33,5B T2 MS2 Sreekanth,8838892588,650,,paid,Whatsapp
-34,5A T2 MS2 Rajaji,9443619467,520,,paid,PhonePe
+32,4 T4 Babu,9444403805,670,,paid,phonepe
+33,5B T2 MS2 Sreekanth,8838892588,650,,paid,whatsapp
+34,5A T2 MS2 Rajaji,9443619467,520,,paid,phonepe
 35,6 T4 Kalaiarasi,9444282946,640,,paid,gpay
 36,8 T2 Ashok Kumar,8012360395,560,,paid,gpay
 37,12 T2 D Karunamoorthy,7842529870,520,,paid,gpay
@@ -44,7 +44,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 43,3 T4 E K Chandran,9884087042,1000,,paid,gpay
 44,3A T3 MS2 V Prasad Rao,9080173372,1140,,paid,gpay
 45,6 T4 MS1 Thirumaran,9283455004,580,,paid,gpay
-46,2 T4 E Dhanasekar,8428180245,450,,paid,PhonePe
+46,2 T4 E Dhanasekar,8428180245,450,,paid,phonepe
 47,2C T2 MS2 Sumitha,9843581580,560,,paid,gpay
 48,3A T2 MS2 Shankar,9500413820,560,,paid,paytm
 49,7 T3 Valarmathi,9944265823,560,,paid,gpay
@@ -57,7 +57,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 56,5B T3 MS2 Sulochana Peethambaram,9884337341,860,,paid,gpay
 57,22 T2 Ashok Kumar,7401330577,560,,paid,gpay
 58,65 SA Nithyanada Vasagam,9710734061,600,,paid,gpay
-59,6 SA Archana Kiran,8939232812,760,,paid,Online
+59,6 SA Archana Kiran,8939232812,760,,paid,online
 60,6C T4 MS1 N Vedaraman,9840956108,600,,paid,gpay
 61,68 SA BVN Phanikumar,9444465144,800,,paid,gpay
 62,2B T5 MS2 B Madan,9500028095,780,,paid,gpay
@@ -72,7 +72,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 71,6 T3 Rajesh,9042021711,540,,paid,gpay
 72,5D T2 MS2 K Dayalan,9444136732,1100,,paid,gpay
 73,2 T2 Malliga,9894598566,600,Monthly,paid,gpay
-74,9 T3 Ananda Pandiya Raj,,1040,,paid,Online
+74,9 T3 Ananda Pandiya Raj,,1040,,paid,online
 75,7A T3 MS2 Giri Babu,,1180,,paid,gpay
 76,4B T2 MS2 Kennedy,,590,,paid,paytm
 77,1D T2 MS2 Shanmugha Priya,,560,,paid,gpay
@@ -96,27 +96,27 @@ S.No,Name,Number,Amount,Cycle,Status,Mode
 95,58 SA Cinitha,,660,,paid,offline
 96,2A T5 MS3 Shankar,,600,,paid,offline
 97,76 SA Ananda Rao,,600,,paid,offline
-98,Guest House,,707,,paid,Online
-99,Guest House,,707,,paid,Online
-100,Guest House,,707,,paid,Online
-101,Guest House,,707,,paid,Online
-102,Guest House,,707,,paid,Online
-103,Guest House,,707,,paid,Online
-104,Guest House,,707,,paid,Online
-105,Guest House,,707,,paid,Online
-106,Guest House,,707,,paid,Online
-107,Guest House,,707,,paid,Online
-108,Guest House,,707,,paid,Online
-109,Guest House,,707,,paid,Online
-110,Guest House,,707,,paid,Online
-111,Guest House,,707,,paid,Online
-112,Guest House,,707,,paid,Online
-113,Guest House,,707,,paid,Online
-114,Guest House,,707,,paid,Online
-115,Guest House,,707,,paid,Online
-116,Guest House,,707,,paid,Online
-117,Guest House,,707,,paid,Online
-118,Guest House,,707,,paid,Online
-119,Guest House,,707,,paid,Online
-120,Guest House,,707,,paid,Online
-121,Guest House,,707,,paid,Online
+98,Guest House,,707,,paid,online
+99,Guest House,,707,,paid,online
+100,Guest House,,707,,paid,online
+101,Guest House,,707,,paid,online
+102,Guest House,,707,,paid,online
+103,Guest House,,707,,paid,online
+104,Guest House,,707,,paid,online
+105,Guest House,,707,,paid,online
+106,Guest House,,707,,paid,online
+107,Guest House,,707,,paid,online
+108,Guest House,,707,,paid,online
+109,Guest House,,707,,paid,online
+110,Guest House,,707,,paid,online
+111,Guest House,,707,,paid,online
+112,Guest House,,707,,paid,online
+113,Guest House,,707,,paid,online
+114,Guest House,,707,,paid,online
+115,Guest House,,707,,paid,online
+116,Guest House,,707,,paid,online
+117,Guest House,,707,,paid,online
+118,Guest House,,707,,paid,online
+119,Guest House,,707,,paid,online
+120,Guest House,,707,,paid,online
+121,Guest House,,707,,paid,online
