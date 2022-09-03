@@ -60,18 +60,15 @@ print("TOTAL NUMBER OF OFFLINE CUSTOMERS: "+str(offlineCustomerCount))
 print("\n\nPAYMENT REQUEST SENT TO "+str(onlineCustomerCount-onlinePaidCount)+" online customers")
 print("PAYMENT REQUEST IGNORED FOR "+str(onlinePaidCount)+" paid Online customers and "+str(offlineCustomerCount)+" Offline customers" )
 
-print("\n\nTOTAL AMOUNT COLLECTED") 
+print("TOTAL COLLECTION DONE: "+str(offlinePaidAmount+onlinePaidAmount)+" from "+str(onlinePaidCount+offlinePaidCount)+" Customers")
 print("VIA ONLINE: Rs."+str(onlinePaidAmount)+" from "+str(onlinePaidCount)+ " Customers -> avg:"+str(round(onlinePaidAmount/onlinePaidCount)))
 print("VIA OFFLINE: Rs."+str(offlinePaidAmount)+" from "+str(offlinePaidCount)+ " Customers -> avg:"+str(round(offlinePaidAmount/offlinePaidCount)))
 
-print("\n\nTOTAL AMOUNT PENDING") 
+print("TOTAL COLLECTION PENDING: "+str(onlineUnpaidAmount+offlineUnpaidAmount)+" from "+str(onlineCustomerCount-onlinePaidCount+offlineCustomerCount-offlinePaidCount) +" Customers")
 print("VIA ONLINE: Rs."+str(onlineUnpaidAmount)+" from "+str(onlineCustomerCount-onlinePaidCount)+ " Customers -> avg:"+str(round(onlineUnpaidAmount/(onlineCustomerCount-onlinePaidCount))))
 print("VIA OFFLINE: Rs."+str(offlineUnpaidAmount)+" from "+str(offlineCustomerCount-offlinePaidCount)+ " Customers -> avg:"+str(round(offlineUnpaidAmount/(offlineCustomerCount-offlinePaidCount))))    
 
 print("\n\nTOTAL EXPECTED COLLECTION AMOUNT : Rs."+str(onlinePaidAmount+onlineUnpaidAmount+offlinePaidAmount+offlineUnpaidAmount))
-print("TOTAL COLLECTION DONE: "+str(offlinePaidAmount+onlinePaidAmount)+" from "+str(onlinePaidCount+offlinePaidCount)+" Customers")
-print("TOTAL COLLECTION PENDING: "+str(onlineUnpaidAmount+offlineUnpaidAmount)+" from "+str(onlineCustomerCount-onlinePaidCount+offlineCustomerCount-offlinePaidCount) +" Customers")
-
 pywhatkit.sendwhatmsg_to_group_instantly("Lm8d0hUAh6AFez1pCeg9hm","\n\nTOTAL NUMBER OF CUSTOMERS: "+str(len(customerData["Number"]))+"\nNO:OF ONLINE CUSTOMERS: "+str(onlineCustomerCount)+"\nNO:OF OFFLINE CUSTOMERS: "+str(offlineCustomerCount)+"\n\nPAYMENT REQ SENT TO "+str(onlineCustomerCount-onlinePaidCount)+" online customers"+"\nPAYMENT REQ IGNORED FOR "+str(onlinePaidCount)+" paid Online customers and "+str(offlineCustomerCount)+" Offline customers"+"\n\nTOTAL AMOUNT COLLECTED VIA ONLINE: Rs."+str(onlinePaidAmount)+" from "+str(onlinePaidCount)+ " Customers -> avg:"+str(round((onlinePaidAmount/onlinePaidCount)))+"\nTOTAL AMOUNT PENDING VIA ONLINE: Rs."+str(onlineUnpaidAmount)+" from "+str(onlineCustomerCount-onlinePaidCount)+ " Customers -> avg:"+str(round(onlineUnpaidAmount/(onlineCustomerCount-onlinePaidCount)))+"\n\nTOTAL AMOUNT COLLECTED VIA OFFLINE: Rs."+str(offlinePaidAmount)+" from "+str(offlinePaidCount)+ " Customers -> avg:"+str(round(offlinePaidAmount/offlinePaidCount))+"\nTOTAL AMOUNT PENDING VIA OFFLINE: Rs."+str(offlineUnpaidAmount)+"from"+str(offlineCustomerCount-offlinePaidCount)+ "Customers -> avg:"+str(round((offlineUnpaidAmount/(offlineCustomerCount-offlinePaidCount))))+"\n\nTOTAL EXPECTED COLLECTION AMOUNT : Rs."+str(onlinePaidAmount+onlineUnpaidAmount+offlinePaidAmount+offlineUnpaidAmount)+"\nTOTAL COLLECTION DONE: "+str(offlinePaidAmount+onlinePaidAmount)+" from "+str(onlinePaidCount+offlinePaidCount)+" Customers"+"\nTOTAL COLLECTION PENDING: "+str(onlineUnpaidAmount+offlineUnpaidAmount)+" from "+str(onlineCustomerCount-onlinePaidCount+offlineCustomerCount-offlinePaidCount) +" Customers",15,True,3)
 
 
