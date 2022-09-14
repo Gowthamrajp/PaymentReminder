@@ -6,7 +6,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 5,15 T4 Ravi Kumar,,520,September and October,paid,offline,21485809520
 6,17 T2 D Karunamoorthy,7845229870,520,September and October,paid,gpay,42830112150
 7,1A T3 MS2 Vinay Kumar Pandey,8681951154,600,September and October,,gpay,
-8,1C T2 MS2 Kumaresan,9840265460,580,September and October,paid,offline,8.306E+11
+8,1C T2 MS2 Kumaresan,9840265460,580,September and October,paid,offline,8.31E+11
 9,1D T2 MS2 Shanmugha Priya,7871537717,560,September and October,paid,gpay,8306000671F4
 10,2 T2 G Malliga,9894598566,600,September,paid,gpay,40275988290 ; 42801450190
 11,2 T4 E Dhanasekar,8428180245,450,September and October,paid,phonepe,21731559740
@@ -18,7 +18,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 17,2B T2 MS2 Gopal,9566188384,690,,paid,gpay,42839180270
 18,2B T4 MS1 Sathiyamoorthy,9840904656,660,Aug and September,paid,gpay,
 19,2C T2 MS2 Sumitha,9843581580,560,September and October,paid,gpay,8306002431C6
-20,3 T4 E K Chandran,9884087042,1000,September and October,paid,gpay,8.306E+11
+20,3 T4 E K Chandran,9884087042,1000,September and October,paid,gpay,8.31E+11
 21,36 T2 Kesavan Jeyaraman,9677713843,600,September and October,paid,gpay,
 22,37 T2 Kinnera chinna babu,7075312882,300,September,paid,gpay,
 23,3A T2 MS2 Shankar,9500413820,560,September and October,paid,paytm,
@@ -31,7 +31,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 30,4B T3 MS2 Ravi Banothu,9000735190,500,September and October,paid,gpay,8306003C33A4
 31,4C T2 MS2 Srinivasan,9840707904,1120,,paid,gpay,
 32,5 SA R Geetha,7401616755,600,September and October,paid,gpay,
-33,58 SA Cinitha,9444219572,660,September and October,,gpay,
+33,58 SA Cinitha,9444219572,660,September and October,,gpay,41187589470
 34,5A T4 MS1 Raju S,9600163198,290,September ,paid,gpay,
 35,5B T4 MS1 Vasudevan P,9840256401,560,Aug and September,paid,gpay,21758414870
 36,5C T2 MS2 Jai Kumar,9941521716,600,September and October,paid,offline,83310005BB3E
@@ -45,37 +45,37 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 44,7 T4 E Sada Siva Sastry,9282208180,660,September and October,paid,gpay,8306002C7E3D
 45,7A T2 MS2 Thangapandian,9042391108,600,Aug and September,paid,gpay,8331000203EE
 46,7A T3 MS2 Giri Babu,7299225533,1180,September and October,paid,gpay,830600025A71
-47,7B T2 MS2 Saravanan Gopinath,9962878656,580,September and October,paid,gpay,833100063677
+47,7B T2 MS2 Saravanan Gopinath,9962878656,580,September and October,paid,gpay,8.33E+11
 48,7B T3 MS2 SureshSethurajan,9842336496,600,September and October,paid,gpay,
 49,7C T2 MS2 S Rajendra Prasad,9655353223,560,September and October,paid,gpay,83060025CD9F
 50,8 T2 Ashok Kumar,8012360395,560,September and October,paid,gpay,
 51,8B T2 MS2 A Alexander,7299442939,820,July and August,paid,gpay,21490060000
 52,8D T2 MS2 Rajesh,9444501152,560,September and October,paid,gpay,
 53,9 T1 Dhanalakshmi Tambura,9182471761,760,September and October,paid,gpay,
-54,9 T3 Ananda Pandiya Raj,9445507119,1040,September and October,paid,online,42801317380;8306003CD1DB
+54,9 T3 Ananda Pandiya Raj,9445507119,1040,September and October,paid,online,"42801317380,8306003CD1DB"
 55,9B T2 MS2 Srinivasan ,9884840228,580,September and October,paid,gpay,41315070490
 56,9C T2 MS2 P Ravichandran,9940498931,800,September and October,paid,gpay,8306003C98AF
-57,Guest House,,707,,,offline,
-58,Guest House,,707,,,offline,
-59,Guest House,,707,,,offline,
-60,Guest House,,707,,,offline,
-61,Guest House,,707,,,offline,
-62,Guest House,,707,,,offline,
-63,Guest House,,707,,,offline,
-64,Guest House,,707,,,offline,
-65,Guest House,,707,,,offline,
-66,Guest House,,707,,,offline,
-67,Guest House,,707,,,offline,
-68,Guest House,,707,,,offline,
-69,Guest House,,707,,,offline,
-70,Guest House,,707,,,offline,
-71,Guest House,,707,,,offline,
-72,Guest House,,707,,,offline,
-73,Guest House,,707,,,offline,
-74,Guest House,,707,,,offline,
-75,Guest House,,707,,,offline,
-76,Guest House,,707,,,offline,
-77,Guest House,,707,,,offline,
-78,Guest House,,707,,,offline,
-79,Guest House,,707,,,offline,
-80,Guest House,,707,,,offline,
+57,Guest House,,707,,paid,offline,
+58,Guest House,,707,,paid,offline,
+59,Guest House,,707,,paid,offline,
+60,Guest House,,707,,paid,offline,
+61,Guest House,,707,,paid,offline,
+62,Guest House,,707,,paid,offline,
+63,Guest House,,707,,paid,offline,
+64,Guest House,,707,,paid,offline,
+65,Guest House,,707,,paid,offline,
+66,Guest House,,707,,paid,offline,
+67,Guest House,,707,,paid,offline,
+68,Guest House,,707,,paid,offline,
+69,Guest House,,707,,paid,offline,
+70,Guest House,,707,,paid,offline,
+71,Guest House,,707,,paid,offline,
+72,Guest House,,707,,paid,offline,
+73,Guest House,,707,,paid,offline,
+74,Guest House,,707,,paid,offline,
+75,Guest House,,707,,paid,offline,
+76,Guest House,,707,,paid,offline,
+77,Guest House,,707,,paid,offline,
+78,Guest House,,707,,paid,offline,
+79,Guest House,,707,,paid,offline,
+80,Guest House,,707,,paid,offline,
