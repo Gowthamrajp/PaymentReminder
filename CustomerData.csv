@@ -36,7 +36,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 35,5B T4 MS1 Vasudevan P,9840256401,560,Aug and September,paid,gpay,21758414870
 36,5C T2 MS2 Jai Kumar,9941521716,600,September and October,paid,offline,83310005BB3E
 37,5D T2 MS2 K Dayalan,9444136732,1100,Aug and September,paid,gpay,21485830800;41187670850
-38,6 T1 MC Chinna Krishnan,7845123989,630,Aug and September,,offline,
+38,6 T1 MC Chinna Krishnan,7845123989,630,Aug and September,paid,offline,
 39,6 T3 Rajesh,9042021711,540,September and October,paid,gpay,830600049A04
 40,6 T4 E Kumarappan,9444809342,680,Aug and September,paid,gpay,8306000A98F1
 41,6 T4 Kalaiarasi,9499948805,640,September and October,paid,gpay,8306003CF1A3
