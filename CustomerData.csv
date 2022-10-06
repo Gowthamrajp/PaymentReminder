@@ -8,7 +8,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 7,15 T4 Ravi Kumar,,520,October,paid,offline,21485809520
 8,1A T2 MS2 S Rajasekaran,9941145355,520,October and November,paid,gpay,40276047240
 9,1A T3 MS2 Vinay Kumar Pandey,8681951154,600,September and October,,gpay,41187589500
-10,1A T5 MS3 GnanaBharathi,9962528232,560,October and November,,gpay,42801317000
+10,1A T5 MS3 GnanaBharathi,9962528232,560,October and November,paid,gpay,42801317000
 11,1B T3 MS2 Balamurugan,8220419669,600,September and October,paid,gpay,830600246395
 12,1B T4 MS1 HarishKumaran,9445390087,580,October and November,,offline,8306003C1DFE
 13,2 T2 G Malliga,9894598566,600,October,,gpay,40275988290 ; 42801450190
@@ -27,7 +27,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 26,4 T4 Babu,9444403805,670,October and November,,phonepe,8306003BC798
 27,49 SA SR Balasubramaniam,9444454698,500,October and November,paid,gpay,8306003E7B8A
 28,4A T2 Maharaja,9994806490,580,October and November,paid,gpay,41187760500
-29,4A T5 MS3 Sree BalaKameshwari,9445264853,680,October and November,,gpay,42825509430
+29,4A T5 MS3 Sree BalaKameshwari,9445264853,680,October and November,paid,gpay,42825509430
 30,4B T5 MS2 Vijaya Kumar,,800,October and November,paid,offline,830600014F06
 31,4C T2 MS2 Srinivasan,9840707904,1120,Feb 22-May 22,,gpay,8306002465FC
 32,58 SA Cinitha,9444219572,660,September and October,,offline,41187589470
