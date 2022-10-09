@@ -14,7 +14,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 13,2 T2 G Malliga,9894598566,600,October,,gpay,40275988290 ; 42801450190
 14,2 T3 F Nagajothy,,660,October and November,paid,offline,830600390A21
 15,2A T4 MS1 Marimuthu,9123583510,650,October and November,paid,gpay,83060024A154
-16,2A T5 MS3 Shankar,,600,October and November,,offline,8306003940A2
+16,2A T5 MS3 Shankar,,600,October and November,paid,offline,8306003940A2
 17,2B T2 MS2 Gopal,9566188384,690,October and November,,offline,42839180270
 18,2B T4 MS1 Sathiyamoorthy,9840904656,660,October and November,,offline,8306000A641E
 19,2B T5 MS2 B Madan,9500028095,780,October and November,paid,gpay,8306000AA465
@@ -22,7 +22,7 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 21,3 T4 Nathan,8277129734,560,October and November,paid,offline,8306003D2F46
 22,37 T2 Kinnera chinna babu,7075312882,300,October,paid,gpay,830600026D30
 23,3A T5 MS3 Kanagaraj J,8056296896,1140,September and October,,offline,830600022DE1
-24,3B T2 MS2 Vaidhyanathan,9841983886,1120,October and November,,gpay,"830600242FB3,8306003E8462"
+24,3B T2 MS2 Vaidhyanathan,9841983886,1120,October and November,paid,gpay,"830600242FB3,8306003E8462"
 25,4 MS1 Dobby Perumal,9962772622,500,October and November,paid,gpay,8306003D466B
 26,49 SA SR Balasubramaniam,9444454698,500,October and November,paid,gpay,8306003E7B8A
 27,4A T2 Maharaja,9994806490,580,October and November,paid,gpay,41187760500
@@ -37,21 +37,21 @@ S.No,Name,Number,Amount,Cycle,Status,Mode,Smartcard Number
 36,5B T5 MS3 Subhendu Chakrabarthi,,1120,October and November,paid,offline,8306003E37D6;21756878650
 37,5D T2 MS2 K Dayalan,9444136732,1100,October and November,,gpay,21485830800;41187670850
 38,6 SA Archana Kiran,8939232812,760,October and November,paid,online,830600386EF4
-39,6 T1 MC Chinna Krishnan,7845123989,630,October and November,,offline,40275905450
-40,6 T4 E Kumarappan,9444809342,680,October and November,,gpay,8306000A98F1
+39,6 T1 MC Chinna Krishnan,7845123989,630,October and November,paid,offline,40275905450
+40,6 T4 E Kumarappan,9444809342,680,October and November,paid,gpay,8306000A98F1
 41,68 SA BVN Phanikumar,9444465144,800,October and November,paid,gpay,83310003FB27
 42,6C T2 MS2 G Arun Raj,9751737417,600,October and November,paid,gpay,8306003DB517
 43,6C T4 MS1 N Vedaraman,9840956108,600,October and November,paid,gpay,40223761250
 44,7 T1 Vanmathi ,6385519889,600,October and November,paid,gpay,BCV hemalatha
 45,7 T3 F Lakshmikanth,9840100748,580,October and November,paid,gpay,830600063C52
 46,7 T4 Sasikala,9445509442,740,October and November,,gpay,8306000B4D1B
-47,71 SA GVM Kiruthiga,9344836126,980,October and November,,gpay,830600241F0A
+47,71 SA GVM Kiruthiga,9344836126,980,October and November,paid,gpay,830600241F0A
 48,72 SA Ambily,9444042805,780,October and November,paid,gpay,41315070500
 49,74 SA A Kalaimaran,9444136305,580,October and November,paid,gpay,21668284740
 50,76 SA Ananda Rao,,600,October and November,,offline,40275988260
 51,7A T2 MS2 Thangapandian,9042391108,600,October and November,,gpay,8331000203EE
 52,7C T4 MS1 Anoop,9884268147,740,October and November,paid,gpay,83060023F0F7
-53,8A T2 MS2 D Ramesh,,600,October and November,,offline,830600291708
+53,8A T2 MS2 D Ramesh,,600,October and November,paid,offline,830600291708
 54,8A T3 MS2 Mani,9941064562,620,October and November,paid,gpay,830600093EEA
 55,8B T2 MS2 A Alexander,7299442939,820,September and October,,offline,21490060000
 56,8C T2 MS2 Balaji Babu,9840955599,660,October and November,paid,gpay,8306003CDB69
