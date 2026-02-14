@@ -1,0 +1,555 @@
+2025-04-20 15:33:00,606 - INFO - Starting payment reminder process
+2025-04-20 15:33:00,625 - INFO - Successfully loaded 57 records from Excel
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 1D T2 MS2 Shanmugha Priya - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 21 T2 V Mahendran - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Processed 10/57 records
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-20 15:33:00,626 - INFO - Processed 20/57 records
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 5 SA R Geetha - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Processed 30/57 records
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-20 15:33:00,627 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 6B T4 MS1 Thirumaran - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 6C T2 MS2 G Arun Raj - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Processed 40/57 records
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 7B T4 MS3 MB ANOOP - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-20 15:33:00,627 - INFO - Processed 50/57 records
+2025-04-20 15:33:00,628 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-20 15:33:00,628 - WARNING - Skipping customer with missing phone number: nan
+2025-04-20 15:33:19,675 - INFO - Summary report sent successfully to +919952074769
+2025-04-20 15:33:43,452 - INFO - Summary report sent successfully to +919444963151
+2025-04-20 15:33:48,456 - INFO - Report saved to report_20250420.txt
+2025-04-20 15:33:48,458 - INFO - Reminder history saved successfully
+2025-04-20 15:33:48,458 - INFO - Payment reminder process completed successfully
+2025-04-25 18:49:35,780 - INFO - Starting payment reminder process
+2025-04-25 18:49:35,790 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 18:49:35,790 - INFO - Sending reminder to 9965154574 - 123.6 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:49:54,723 - INFO - Reminder sent to 15 T4 B Ravikumar at number 9965154574.0
+2025-04-25 18:49:57,731 - INFO - Sending reminder to 8681951154 - 123.6 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:57:17,889 - INFO - Starting payment reminder process
+2025-04-25 18:57:17,901 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 18:57:17,902 - INFO - Sending reminder to 9965154574 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:57:36,765 - INFO - Reminder sent to 15 T4 B Ravikumar at number 9965154574.0
+2025-04-25 18:57:39,853 - INFO - Sending reminder to 8681951154 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:57:58,667 - INFO - Reminder sent to 1A T3 MS2 Vinay Kumar Pandey at number 8681951154.0
+2025-04-25 18:58:01,680 - INFO - Sending reminder to 9445390087 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:58:20,452 - INFO - Reminder sent to 1B T4 MS1 HarishKumaran at number 9445390087.0
+2025-04-25 18:58:23,461 - INFO - Sending reminder to 7871537717 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:58:42,220 - INFO - Reminder sent to 1D T2 MS2 Shanmugha Priya at number 7871537717.0
+2025-04-25 18:58:45,233 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 18:58:45,233 - INFO - Processed 10/56 records
+2025-04-25 18:58:45,234 - INFO - Sending reminder to 9123583510 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:59:04,039 - INFO - Reminder sent to 2A T4 MS1 Marimuthu at number 9123583510.0
+2025-04-25 18:59:07,052 - INFO - Sending reminder to 9791111788 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:59:25,828 - INFO - Reminder sent to 2D T2 MS2 Jagadeesan at number 9791111788.0
+2025-04-25 18:59:28,837 - INFO - Sending reminder to 9962772622 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 18:59:47,595 - INFO - Reminder sent to 4 MS1 Dobby Perumal at number 9962772622.0
+2025-04-25 18:59:50,602 - INFO - Processed 20/56 records
+2025-04-25 18:59:50,608 - INFO - Sending reminder to 9444914590 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:00:09,378 - INFO - Reminder sent to 4B T5 MS2 Vijaya Kumar at number 9444914590.0
+2025-04-25 19:00:12,387 - INFO - Sending reminder to 9443619467 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:00:31,162 - INFO - Reminder sent to 5A T2 MS2 Rajaji at number 9443619467.0
+2025-04-25 19:00:34,167 - INFO - Processed 30/56 records
+2025-04-25 19:00:34,170 - INFO - Sending reminder to 9840256401 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:00:52,927 - INFO - Reminder sent to 5B T4 MS1 Vasudevan P at number 9840256401.0
+2025-04-25 19:00:55,932 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:01:14,687 - INFO - Reminder sent to 5C T2 MS2 Jai Kumar at number 9940166018.0
+2025-04-25 19:01:17,696 - INFO - Sending reminder to 9283455004 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:01:36,469 - INFO - Reminder sent to 6B T4 MS1 Thirumaran at number 9283455004.0
+2025-04-25 19:01:39,475 - INFO - Sending reminder to 9751737417 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:01:58,234 - INFO - Reminder sent to 6C T2 MS2 G Arun Raj at number 9751737417.0
+2025-04-25 19:02:01,239 - INFO - Processed 40/56 records
+2025-04-25 19:02:01,241 - INFO - Sending reminder to 6381930033 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:02:20,010 - INFO - Reminder sent to 8A T2 MS2 D Ramesh at number 6381930033.0
+2025-04-25 19:02:23,017 - INFO - Processed 50/56 records
+2025-04-25 19:02:23,019 - INFO - Sending reminder to 9940498931 - 123.7 hours since last reminder (threshold: 24 hours)
+2025-04-25 19:02:41,751 - INFO - Reminder sent to 9C T2 MS2 P Ravichandran at number 9940498931.0
+2025-04-25 19:03:03,467 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 19:03:27,209 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 19:03:32,214 - INFO - Report saved to report_20250425.txt
+2025-04-25 19:03:32,217 - INFO - Reminder history saved successfully
+2025-04-25 19:03:32,217 - INFO - Payment reminder process completed successfully
+2025-04-25 19:18:15,629 - INFO - Starting payment reminder process
+2025-04-25 19:18:15,638 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 9965154574 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 8681951154 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 9445390087 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 7871537717 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 1D T2 MS2 Shanmugha Priya - recent reminder with no data change
+2025-04-25 19:18:15,638 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:18:15,638 - INFO - Processed 10/56 records
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 9791111788 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 9962772622 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:18:15,639 - INFO - Processed 20/56 records
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 9443619467 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,639 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:18:15,639 - INFO - Processed 30/56 records
+2025-04-25 19:18:15,640 - INFO - Skipping reminder for 9840256401 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,640 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:18:15,640 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:18:15,640 - INFO - Skipping reminder for 9940166018 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:15,640 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:18:34,698 - INFO - Reminder sent to 6 T1 MC Chinna Krishnan at number 7845123989.0
+2025-04-25 19:18:37,705 - INFO - Skipping reminder for 9283455004 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:37,705 - INFO - Skipping reminder for 6B T4 MS1 Thirumaran - recent reminder with no data change
+2025-04-25 19:18:37,705 - INFO - Skipping reminder for 9751737417 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:37,705 - INFO - Skipping reminder for 6C T2 MS2 G Arun Raj - recent reminder with no data change
+2025-04-25 19:18:37,706 - INFO - Processed 40/56 records
+2025-04-25 19:18:37,707 - INFO - Skipping reminder for 6381930033 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:37,707 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 19:18:37,707 - INFO - Processed 50/56 records
+2025-04-25 19:18:37,708 - INFO - Skipping reminder for 9940498931 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:18:37,708 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 19:18:56,417 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 19:19:20,179 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 19:19:25,187 - INFO - Report saved to report_20250425.txt
+2025-04-25 19:19:25,190 - INFO - Reminder history saved successfully
+2025-04-25 19:19:25,190 - INFO - Payment reminder process completed successfully
+2025-04-25 19:28:54,537 - INFO - Starting payment reminder process
+2025-04-25 19:28:54,551 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 9965154574 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 8681951154 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 9445390087 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 7871537717 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,552 - INFO - Skipping reminder for 1D T2 MS2 Shanmugha Priya - recent reminder with no data change
+2025-04-25 19:28:54,553 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:28:54,553 - INFO - Processed 10/56 records
+2025-04-25 19:28:54,553 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:28:54,553 - INFO - Skipping reminder for 9791111788 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,553 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:28:54,553 - INFO - Skipping reminder for 9962772622 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,553 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:28:54,553 - INFO - Processed 20/56 records
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 9443619467 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:28:54,554 - INFO - Processed 30/56 records
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 9840256401 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:28:54,554 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 9940166018 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 7845123989 - only 0.2 hours since last reminder and no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 9283455004 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 6B T4 MS1 Thirumaran - recent reminder with no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 9751737417 - only 0.4 hours since last reminder and no data change
+2025-04-25 19:28:54,554 - INFO - Skipping reminder for 6C T2 MS2 G Arun Raj - recent reminder with no data change
+2025-04-25 19:28:54,554 - INFO - Processed 40/56 records
+2025-04-25 19:28:54,555 - INFO - Skipping reminder for 6381930033 - only 0.4 hours since last reminder and no data change
+2025-04-25 19:28:54,555 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 19:28:54,555 - INFO - Processed 50/56 records
+2025-04-25 19:28:54,555 - INFO - Skipping reminder for 9940498931 - only 0.4 hours since last reminder and no data change
+2025-04-25 19:28:54,555 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 19:29:13,401 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 19:29:37,157 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 19:29:42,161 - INFO - Report saved to report_20250425.txt
+2025-04-25 19:29:42,164 - INFO - Reminder history saved successfully
+2025-04-25 19:29:42,164 - INFO - Payment reminder process completed successfully
+2025-04-25 19:36:50,026 - INFO - Starting payment reminder process
+2025-04-25 19:36:50,039 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:36:50,039 - INFO - Skipping reminder for 9965154574 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:36:50,039 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 8681951154 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 9445390087 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 7871537717 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 1D T2 MS2 Shanmugha Priya - recent reminder with no data change
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:36:50,040 - INFO - Processed 10/56 records
+2025-04-25 19:36:50,040 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 19:36:50,040 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 19:36:50,040 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 9791111788 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 9962772622 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:36:50,041 - INFO - Processed 20/56 records
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 9443619467 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:36:50,041 - INFO - Processed 30/56 records
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 9840256401 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:36:50,041 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:36:50,041 - INFO - Skipping reminder for 9940166018 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 7845123989 - only 0.3 hours since last reminder and no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 19:36:50,042 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-25 19:36:50,042 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-25 19:36:50,042 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-25 19:36:50,042 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 9283455004 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 6B T4 MS1 Thirumaran - recent reminder with no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 9751737417 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 6C T2 MS2 G Arun Raj - recent reminder with no data change
+2025-04-25 19:36:50,042 - INFO - Processed 40/56 records
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 6381930033 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,042 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 19:36:50,043 - INFO - Processed 50/56 records
+2025-04-25 19:36:50,043 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-25 19:36:50,043 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-25 19:36:50,043 - INFO - Skipping reminder for 9940498931 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:36:50,043 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 19:37:08,900 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 19:37:32,650 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 19:37:37,651 - INFO - Report saved to report_20250425.txt
+2025-04-25 19:37:37,654 - INFO - Reminder history saved successfully
+2025-04-25 19:37:37,654 - INFO - Payment reminder process completed successfully
+2025-04-25 19:43:59,977 - INFO - Starting payment reminder process
+2025-04-25 19:43:59,989 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:43:59,989 - INFO - Skipping reminder for 9965154574 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:43:59,989 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:43:59,990 - INFO - Skipping reminder for 8681951154 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:43:59,990 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:43:59,990 - INFO - Skipping reminder for 9445390087 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:43:59,990 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:43:59,990 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-25 19:43:59,990 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-25 19:43:59,990 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:43:59,990 - INFO - Processed 10/56 records
+2025-04-25 19:43:59,990 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 19:43:59,990 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 19:43:59,990 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 9791111788 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 9962772622 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:43:59,991 - INFO - Processed 20/56 records
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 9443619467 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:43:59,991 - INFO - Processed 30/56 records
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 9840256401 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:43:59,991 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:43:59,991 - INFO - Skipping reminder for 9940166018 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:43:59,992 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:43:59,992 - ERROR - Error in main execution: could not convert string to float: '7845123989;9962380278'
+2025-04-25 19:48:26,017 - INFO - Starting payment reminder process
+2025-04-25 19:48:26,029 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:48:26,030 - INFO - Skipping reminder for 9965154574 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,030 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:48:26,030 - INFO - Skipping reminder for 8681951154 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,030 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:48:26,030 - INFO - Skipping reminder for 9445390087 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,030 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:48:26,030 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-25 19:48:26,030 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-25 19:48:26,031 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:48:26,031 - INFO - Processed 10/56 records
+2025-04-25 19:48:26,031 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 19:48:26,031 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 19:48:26,031 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:48:26,031 - INFO - Skipping reminder for 9791111788 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,031 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:48:26,031 - INFO - Skipping reminder for 9962772622 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,031 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:48:26,031 - INFO - Processed 20/56 records
+2025-04-25 19:48:26,032 - INFO - Found inactive customer via Customer Status column: 4B T3 MS2 Ravi Banothu
+2025-04-25 19:48:26,032 - INFO - Added inactive customer for deactivation: 4B T3 MS2 Ravi Banothu with smartcards: ['8306003C33A4']
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 9443619467 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:48:26,032 - INFO - Processed 30/56 records
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 9840256401 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:48:26,032 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 9940166018 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 7845123989 - only 0.5 hours since last reminder and no data change
+2025-04-25 19:48:26,032 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 19:48:26,032 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-25 19:48:26,032 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-25 19:48:26,032 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-25 19:48:26,032 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-25 19:48:26,033 - INFO - Skipping reminder for 9283455004 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,033 - INFO - Skipping reminder for 6B T4 MS1 Thirumaran - recent reminder with no data change
+2025-04-25 19:48:26,033 - INFO - Processed 40/56 records
+2025-04-25 19:48:26,033 - INFO - Skipping reminder for 6381930033 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,033 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 19:48:26,033 - INFO - Processed 50/56 records
+2025-04-25 19:48:26,033 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-25 19:48:26,033 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-25 19:48:26,033 - INFO - Skipping reminder for 9940498931 - only 0.8 hours since last reminder and no data change
+2025-04-25 19:48:26,033 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 19:48:45,476 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 19:49:09,239 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 19:49:14,245 - INFO - Report saved to report_20250425.txt
+2025-04-25 19:49:14,248 - INFO - Reminder history saved successfully
+2025-04-25 19:49:14,248 - INFO - Payment reminder process completed successfully
+2025-04-25 19:55:27,341 - INFO - Starting payment reminder process
+2025-04-25 19:55:27,354 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:55:27,355 - INFO - Skipping reminder for 9965154574 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:55:27,355 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:55:27,355 - INFO - Skipping reminder for 8681951154 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:55:27,355 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:55:27,355 - INFO - Skipping reminder for 9445390087 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:55:27,355 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:55:27,355 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-25 19:55:27,356 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-25 19:55:27,356 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:55:27,356 - INFO - Processed 10/56 records
+2025-04-25 19:55:27,356 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 19:55:27,356 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 19:55:27,356 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:55:27,356 - INFO - Skipping reminder for 9791111788 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,356 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 9962772622 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:55:27,357 - INFO - Processed 20/56 records
+2025-04-25 19:55:27,357 - INFO - Found inactive customer via Customer Status column: 4B T3 MS2 Ravi Banothu
+2025-04-25 19:55:27,357 - INFO - Added inactive customer for deactivation: 4B T3 MS2 Ravi Banothu with smartcards: ['8306003C33A4']
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 9443619467 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:55:27,357 - INFO - Processed 30/56 records
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 9840256401 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:55:27,357 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 9940166018 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,357 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:55:27,358 - INFO - Skipping reminder for 7845123989 - only 0.6 hours since last reminder and no data change
+2025-04-25 19:55:27,358 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 19:55:27,358 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-25 19:55:27,358 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-25 19:55:27,358 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-25 19:55:27,358 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-25 19:55:27,358 - INFO - Processed 40/56 records
+2025-04-25 19:55:27,358 - INFO - Skipping reminder for 6381930033 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,358 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 19:55:27,358 - INFO - Processed 50/56 records
+2025-04-25 19:55:27,359 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-25 19:55:27,359 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-25 19:55:27,359 - INFO - Skipping reminder for 9940498931 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:55:27,359 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 19:55:46,224 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 19:56:09,990 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 19:56:14,997 - INFO - Report saved to report_20250425.txt
+2025-04-25 19:56:14,997 - INFO - Reminder history saved successfully
+2025-04-25 19:56:14,998 - INFO - Payment reminder process completed successfully
+2025-04-25 19:59:30,849 - INFO - Starting payment reminder process
+2025-04-25 19:59:30,863 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 19:59:30,863 - INFO - Skipping reminder for 9965154574 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,863 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 19:59:30,863 - INFO - Skipping reminder for 8681951154 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,863 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 19:59:30,863 - INFO - Skipping reminder for 9445390087 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,863 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 19:59:30,863 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-25 19:59:30,864 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-25 19:59:30,864 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 19:59:30,864 - INFO - Processed 10/56 records
+2025-04-25 19:59:30,864 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 19:59:30,864 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 19:59:30,864 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 19:59:30,864 - INFO - Skipping reminder for 9791111788 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,864 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 19:59:30,864 - INFO - Skipping reminder for 9962772622 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,864 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 19:59:30,864 - INFO - Processed 20/56 records
+2025-04-25 19:59:30,865 - INFO - Found inactive customer via Customer Status column: 4B T3 MS2 Ravi Banothu
+2025-04-25 19:59:30,865 - INFO - Added inactive customer for deactivation: 4B T3 MS2 Ravi Banothu with smartcards: ['8306003C33A4']
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 9443619467 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 5A T2 MS2 Rajaji - recent reminder with no data change
+2025-04-25 19:59:30,865 - INFO - Processed 30/56 records
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 9840256401 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 19:59:30,865 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 9940166018 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 7845123989 - only 0.7 hours since last reminder and no data change
+2025-04-25 19:59:30,865 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 19:59:30,865 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-25 19:59:30,865 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-25 19:59:30,865 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-25 19:59:30,865 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-25 19:59:30,866 - INFO - Processed 40/56 records
+2025-04-25 19:59:30,866 - INFO - Skipping reminder for 6381930033 - only 1.0 hours since last reminder and no data change
+2025-04-25 19:59:30,866 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 19:59:30,866 - INFO - Processed 50/56 records
+2025-04-25 19:59:30,866 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-25 19:59:30,866 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-25 19:59:30,866 - INFO - Skipping reminder for 9940498931 - only 0.9 hours since last reminder and no data change
+2025-04-25 19:59:30,866 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 19:59:49,779 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 20:00:13,539 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 20:00:18,548 - INFO - Report saved to report_20250425.txt
+2025-04-25 20:00:18,551 - INFO - Reminder history saved successfully
+2025-04-25 20:00:18,551 - INFO - Payment reminder process completed successfully
+2025-04-25 20:45:08,047 - INFO - Starting payment reminder process
+2025-04-25 20:45:08,062 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 20:45:08,063 - INFO - Skipping reminder for 9965154574 - only 1.8 hours since last reminder and no data change
+2025-04-25 20:45:08,063 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 20:45:08,063 - INFO - Skipping reminder for 8681951154 - only 1.8 hours since last reminder and no data change
+2025-04-25 20:45:08,063 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 20:45:08,063 - INFO - Skipping reminder for 9445390087 - only 1.8 hours since last reminder and no data change
+2025-04-25 20:45:08,063 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 20:45:08,063 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-25 20:45:08,063 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-25 20:45:08,064 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 20:45:08,064 - INFO - Processed 10/56 records
+2025-04-25 20:45:08,064 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 20:45:08,064 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 20:45:08,064 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 20:45:27,558 - INFO - Reminder sent to 2B T2 MS2 Gopal at number 9566188384
+2025-04-25 20:45:30,569 - INFO - Skipping reminder for 9791111788 - only 1.8 hours since last reminder and no data change
+2025-04-25 20:45:30,569 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 20:45:30,570 - INFO - Skipping reminder for 9962772622 - only 1.8 hours since last reminder and no data change
+2025-04-25 20:45:30,570 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 20:45:30,570 - INFO - Processed 20/56 records
+2025-04-25 20:45:30,571 - INFO - Found inactive customer via Customer Status column: 4B T3 MS2 Ravi Banothu
+2025-04-25 20:45:30,571 - INFO - Added inactive customer for deactivation: 4B T3 MS2 Ravi Banothu with smartcards: ['8306003C33A4']
+2025-04-25 20:45:30,572 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 20:45:30,573 - INFO - Processed 30/56 records
+2025-04-25 20:45:30,573 - INFO - Skipping reminder for 9840256401 - only 1.7 hours since last reminder and no data change
+2025-04-25 20:45:30,573 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 20:45:30,574 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 20:45:30,574 - INFO - Skipping reminder for 9940166018 - only 1.7 hours since last reminder and no data change
+2025-04-25 20:45:30,574 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 20:45:30,574 - INFO - Skipping reminder for 7845123989 - only 1.4 hours since last reminder and no data change
+2025-04-25 20:45:30,574 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 20:45:30,574 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-25 20:45:30,575 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-25 20:45:30,575 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-25 20:45:30,575 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-25 20:45:30,575 - INFO - Processed 40/56 records
+2025-04-25 20:45:49,334 - INFO - Reminder sent to 7B T2 MS2 Saravanan Gopinath at number 9962878656
+2025-04-25 20:45:52,347 - INFO - Skipping reminder for 6381930033 - only 1.7 hours since last reminder and no data change
+2025-04-25 20:45:52,348 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 20:45:52,348 - INFO - Processed 50/56 records
+2025-04-25 20:45:52,349 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-25 20:45:52,349 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-25 20:45:52,350 - INFO - Skipping reminder for 9940498931 - only 1.7 hours since last reminder and no data change
+2025-04-25 20:45:52,350 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 20:46:11,129 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 20:46:34,910 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 20:46:39,919 - INFO - Report saved to report_20250425.txt
+2025-04-25 20:46:39,922 - INFO - Reminder history saved successfully
+2025-04-25 20:46:39,922 - INFO - Payment reminder process completed successfully
+2025-04-25 21:09:25,078 - INFO - Starting payment reminder process
+2025-04-25 21:09:25,091 - INFO - Successfully loaded 56 records from Excel
+2025-04-25 21:09:25,092 - INFO - Skipping reminder for 9965154574 - already sent today (2025-04-25)
+2025-04-25 21:09:25,092 - INFO - Skipping reminder for 15 T4 B Ravikumar - recent reminder with no data change
+2025-04-25 21:09:25,092 - INFO - Skipping reminder for 8681951154 - already sent today (2025-04-25)
+2025-04-25 21:09:25,092 - INFO - Skipping reminder for 1A T3 MS2 Vinay Kumar Pandey - recent reminder with no data change
+2025-04-25 21:09:25,092 - INFO - Skipping reminder for 9445390087 - already sent today (2025-04-25)
+2025-04-25 21:09:25,092 - INFO - Skipping reminder for 1B T4 MS1 HarishKumaran - recent reminder with no data change
+2025-04-25 21:09:25,092 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-25 21:09:25,092 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-25 21:09:25,093 - INFO - Processed 10/56 records
+2025-04-25 21:09:25,093 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-25 21:09:25,093 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 9566188384 - already sent today (2025-04-25)
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 2B T2 MS2 Gopal - recent reminder with no data change
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 9791111788 - already sent today (2025-04-25)
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 2D T2 MS2 Jagadeesan - recent reminder with no data change
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 9962772622 - already sent today (2025-04-25)
+2025-04-25 21:09:25,093 - INFO - Skipping reminder for 4 MS1 Dobby Perumal - recent reminder with no data change
+2025-04-25 21:09:25,093 - INFO - Processed 20/56 records
+2025-04-25 21:09:25,094 - INFO - Found inactive customer via Customer Status column: 4B T3 MS2 Ravi Banothu
+2025-04-25 21:09:25,094 - INFO - Added inactive customer for deactivation: 4B T3 MS2 Ravi Banothu with smartcards: ['8306003C33A4']
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-25 21:09:25,094 - INFO - Processed 30/56 records
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 9840256401 - already sent today (2025-04-25)
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 5B T4 MS1 Vasudevan P - recent reminder with no data change
+2025-04-25 21:09:25,094 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 9940166018 - already sent today (2025-04-25)
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 5C T2 MS2 Jai Kumar - recent reminder with no data change
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 7845123989 - already sent today (2025-04-25)
+2025-04-25 21:09:25,094 - INFO - Skipping reminder for 6 T1 MC Chinna Krishnan - recent reminder with no data change
+2025-04-25 21:09:25,094 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-25 21:09:25,094 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-25 21:09:25,094 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-25 21:09:25,094 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-25 21:09:25,094 - INFO - Processed 40/56 records
+2025-04-25 21:09:25,095 - INFO - Skipping reminder for 9962878656 - already sent today (2025-04-25)
+2025-04-25 21:09:25,095 - INFO - Skipping reminder for 7B T2 MS2 Saravanan Gopinath - recent reminder with no data change
+2025-04-25 21:09:25,095 - INFO - Skipping reminder for 6381930033 - already sent today (2025-04-25)
+2025-04-25 21:09:25,095 - INFO - Skipping reminder for 8A T2 MS2 D Ramesh - recent reminder with no data change
+2025-04-25 21:09:25,095 - INFO - Processed 50/56 records
+2025-04-25 21:09:25,095 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-25 21:09:25,095 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-25 21:09:25,095 - INFO - Skipping reminder for 9940498931 - already sent today (2025-04-25)
+2025-04-25 21:09:25,095 - INFO - Skipping reminder for 9C T2 MS2 P Ravichandran - recent reminder with no data change
+2025-04-25 21:09:43,962 - INFO - Summary report sent successfully to +919952074769
+2025-04-25 21:10:07,769 - INFO - Summary report sent successfully to +919444963151
+2025-04-25 21:10:12,772 - INFO - Report saved to report_20250425.txt
+2025-04-25 21:10:12,775 - INFO - Reminder history saved successfully
+2025-04-25 21:10:12,775 - INFO - Payment reminder process completed successfully
+2025-04-27 12:16:00,502 - INFO - Starting payment reminder process
+2025-04-27 12:16:00,515 - INFO - Successfully loaded 56 records from Excel
+2025-04-27 12:16:00,515 - INFO - Sending reminder to 9965154574 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:16:19,462 - INFO - Reminder sent to 15 T4 B Ravikumar at number 9965154574
+2025-04-27 12:16:22,472 - INFO - Sending reminder to 8681951154 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:16:41,241 - INFO - Reminder sent to 1A T3 MS2 Vinay Kumar Pandey at number 8681951154
+2025-04-27 12:16:44,253 - INFO - Sending reminder to 9445390087 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:17:03,002 - INFO - Reminder sent to 1B T4 MS1 HarishKumaran at number 9445390087
+2025-04-27 12:17:06,010 - INFO - Found inactive customer via Customer Status column: 1D T2 MS2 Shanmugha Priya
+2025-04-27 12:17:06,011 - INFO - Added inactive customer for deactivation: 1D T2 MS2 Shanmugha Priya with smartcards: ['8306000671F4']
+2025-04-27 12:17:06,012 - INFO - Skipping reminder for 21 T2 V Mahendran until 2025-05-01
+2025-04-27 12:17:06,012 - INFO - Processed 10/56 records
+2025-04-27 12:17:06,012 - INFO - Found inactive customer via Customer Status column: 2A T3 MS2 R Ganesh
+2025-04-27 12:17:06,012 - INFO - Added inactive customer for deactivation: 2A T3 MS2 R Ganesh with smartcards: ['830600248EE0', '41187579440']
+2025-04-27 12:17:06,013 - INFO - Skipping reminder for 2A T4 MS1 Marimuthu until 2025-05-01
+2025-04-27 12:17:06,013 - INFO - Sending reminder to 9566188384 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:17:24,706 - INFO - Reminder sent to 2B T2 MS2 Gopal at number 9566188384
+2025-04-27 12:17:27,712 - INFO - Sending reminder to 9791111788 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:17:46,483 - INFO - Reminder sent to 2D T2 MS2 Jagadeesan at number 9791111788
+2025-04-27 12:17:49,495 - INFO - Sending reminder to 9962772622 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:18:08,272 - INFO - Reminder sent to 4 MS1 Dobby Perumal at number 9962772622
+2025-04-27 12:18:11,278 - INFO - Processed 20/56 records
+2025-04-27 12:18:11,282 - INFO - Found inactive customer via Customer Status column: 4B T3 MS2 Ravi Banothu
+2025-04-27 12:18:11,283 - INFO - Added inactive customer for deactivation: 4B T3 MS2 Ravi Banothu with smartcards: ['8306003C33A4']
+2025-04-27 12:18:11,283 - INFO - Skipping reminder for 4B T5 MS2 Vijaya Kumar until 2025-05-01
+2025-04-27 12:18:11,284 - INFO - Processed 30/56 records
+2025-04-27 12:18:11,285 - INFO - Sending reminder to 9840256401 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:18:30,140 - INFO - Reminder sent to 5B T4 MS1 Vasudevan P at number 9840256401
+2025-04-27 12:18:33,151 - WARNING - Skipping customer with missing phone number: 5B T5 MS3 Subhendu Chakrabarthi
+2025-04-27 12:18:33,152 - INFO - Sending reminder to 9940166018 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:18:51,895 - INFO - Reminder sent to 5C T2 MS2 Jai Kumar at number 9940166018
+2025-04-27 12:18:54,907 - INFO - Sending reminder to 7845123989 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:19:13,651 - INFO - Reminder sent to 6 T1 MC Chinna Krishnan at number 7845123989
+2025-04-27 12:19:35,389 - INFO - Reminder sent to 6 T1 MC Chinna Krishnan at number 9962380278
+2025-04-27 12:19:38,397 - INFO - Found inactive customer via Customer Status column: 6 T3 Rajesh
+2025-04-27 12:19:38,397 - INFO - Added inactive customer for deactivation: 6 T3 Rajesh with smartcards: ['830600049A04']
+2025-04-27 12:19:38,397 - INFO - Found inactive customer via Customer Status column: 68 SA BVN Phanikumar
+2025-04-27 12:19:38,398 - INFO - Added inactive customer for deactivation: 68 SA BVN Phanikumar with smartcards: ['83310003FB27']
+2025-04-27 12:19:38,398 - INFO - Processed 40/56 records
+2025-04-27 12:19:38,399 - INFO - Sending reminder to 9962878656 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:19:57,148 - INFO - Reminder sent to 7B T2 MS2 Saravanan Gopinath at number 9962878656
+2025-04-27 12:20:00,159 - INFO - Sending reminder to 6381930033 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:20:18,893 - INFO - Reminder sent to 8A T2 MS2 D Ramesh at number 6381930033
+2025-04-27 12:20:21,899 - INFO - Processed 50/56 records
+2025-04-27 12:20:21,900 - INFO - Found inactive customer via Customer Status column: 9 T3 Ananda Pandiya Raj
+2025-04-27 12:20:21,900 - INFO - Added inactive customer for deactivation: 9 T3 Ananda Pandiya Raj with smartcards: ['42801317380', '833100019A0E']
+2025-04-27 12:20:21,901 - INFO - Sending reminder to 9940498931 - last reminder was on 2025-04-25, sending new one today
+2025-04-27 12:20:40,632 - INFO - Reminder sent to 9C T2 MS2 P Ravichandran at number 9940498931
+2025-04-27 12:21:02,409 - INFO - Summary report sent successfully to +919952074769
+2025-04-27 12:21:26,180 - INFO - Summary report sent successfully to +919444963151
+2025-04-27 12:21:31,261 - INFO - Report saved to report_20250427.txt
+2025-04-27 12:21:31,271 - INFO - Reminder history saved successfully
+2025-04-27 12:21:31,271 - INFO - Payment reminder process completed successfully

@@ -1,0 +1,6 @@
+{
+    "excel_path": "CustomerData.xlsx",
+    "sheet_name": "CustomerData",
+    "admin_phones": ["+919952074769", "+919444963151"],
+    "time_difference_hours": 24
+}
